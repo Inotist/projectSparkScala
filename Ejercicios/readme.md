@@ -19,6 +19,6 @@
 ![](9.personaleditado.png)
 #### 6. Ejercicio que cuenta las palabras del archivo (requiere una pequeña limpieza de carácteres).
 ![](8.contar-palabras.png)
-### [Cómo configurar Kafka](../tree/master/KafkaConfigure)
-### [Archivos de código](../tree/master/Codigo)
-### [Datos utilizados](../tree/master/datos)
+### [Cómo configurar Kafka](https://github.com/Inotist/projectSparkScala/tree/master/KafkaConfigure)
+### [Archivos de código](https://github.com/Inotist/projectSparkScala/tree/master/Codigo)
+### [Datos utilizados](https://github.com/Inotist/projectSparkScala/tree/master/datos)
