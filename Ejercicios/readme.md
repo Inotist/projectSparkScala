@@ -14,6 +14,11 @@
 ![](6.kafka-consumer.png)
 ![](7.kafka-consumer.png)
 >Con kafka-console-consumer.sh podemos ver todo lo que está llegando y así saber que Noell se está filtrando correctamente en el consumidor que tenemos en el notebook.
-### [Cómo configurar Kafka](../KafkaConfigure)
-### [Archivos de código](../Codigo)
-### [Datos utilizados](../datos)
+
+>El archivo personaleditado.json que utilizamos con kafka-console-producer.sh lo sacamos de este pequeño ejercicio. Le damos un nuevo formato al json para que pueda ser procesado correctamente.
+![](9.personaleditado.png)
+#### 6. Ejercicio que cuenta las palabras del archivo (requiere una pequeña limpieza de carácteres).
+![](8.contar-palabras.png)
+### [Cómo configurar Kafka](../tree/master/KafkaConfigure)
+### [Archivos de código](../tree/master/Codigo)
+### [Datos utilizados](../tree/master/datos)

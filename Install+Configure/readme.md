@@ -20,5 +20,5 @@
 #### 7. Para crear un nuevo notebook nos vamos a "Create new note", le damos un nombre y seleccionamos el intérprete que queremos utilizar.
 ![](12.Crear-notebook.png)
 ![](13.Crear-notebook.png)
-### [Cómo configurar Kafka](../KafkaConfigure)
-### [Resultado de los ejercicios](../Ejericios)
+### [Cómo configurar Kafka](../tree/master/KafkaConfigure)
+### [Resultado de los ejercicios](../tree/master/Ejericios)

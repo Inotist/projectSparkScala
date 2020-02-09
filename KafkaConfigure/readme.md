@@ -9,4 +9,4 @@
 #### 4. Luego solo tenemos que agregarlas en la configuración del intérprete, en la parte de abajo donde dice "Dependencies" y "artifact".
 ![](4.Enchufar-dependencias.png)
 > En teoría deberíamos poder utilizar una ruta como "org.apache.spark:spark-sql-kafka-0-10_2.11:2.2.1", pero zeppelin se conecta al repositorio de maven por http y da un error, ya que la conexión debe realizarse obligatoriamente por https y no permite modificar esta configuración.
-### [Resultado de los ejercicios](../Ejericios)
+### [Resultado de los ejercicios](../tree/master/Ejericios)
